@@ -1,5 +1,23 @@
 # 💫 About Me:
-I am a teacher who is also involved in school administration, part-time online store administration, video editing, web design, and IT support.<br>Currently, I am working on various projects, including developing store applications and honing my skills in VBA code, HTML, php, and Java.<br>I would like to collaborate with anyone who is interested in sharing knowledge and working together, especially when it comes to app development and technology.<br>I am looking for help or collaboration opportunities in technology development and other creative projects.<br>If you have any questions about education, administration, web development, or video editing, don't hesitate to ask!<br>Fun fact: I enjoy sharing knowledge and working well together, and am always open to new opportunities.
+
+I build practical solutions for real-world problems, with a focus on automation, data processing, and simple application development.
+
+Currently working on projects such as store applications while improving my skills in VBA, HTML, PHP, and Java. I enjoy turning manual workflows into efficient systems and creating tools that improve productivity.
+
+My background includes operations, administration, and IT support, which helps me understand both technical and business needs when building solutions.
+
+Tech & Tools
+* VBA (Excel automation)
+* HTML, PHP, Java (learning & building projects)
+* Google Workspace, Microsoft Excel
+* Basic web development & IT support
+
+Focus Areas
+* Automation & workflow optimization
+* Data management systems
+* Simple web/app development
+
+I’m open to collaboration on automation tools, web apps, or productivity-focused projects.
 
 
 ## 🌐 Socials:
